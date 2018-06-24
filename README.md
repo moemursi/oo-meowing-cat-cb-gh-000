@@ -7,7 +7,7 @@
 
 ![maru in a box](http://readme-pics.s3.amazonaws.com/tumblr_lm841mjEdz1qibxp4o1_500.jpg)
 
-## Introduction
+## Introdduction
 
 In this lab, you'll be creating a Cat class. Every instance of a Cat should have
 a name and be able to meow. In other words, I should be able to do:
